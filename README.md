@@ -21,11 +21,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./design/screen-huddle-challenge.png)
 
 ### Links
 
-- GitHub Pages URL: [Add solution URL here](https://your-solution-url.com)
+- GitHub Pages URL: [Add solution URL here]([https://your-solution-url.com](https://elaf-gardi.github.io/huddle-challenge/))
 
 ### Built with
 
