@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- GitHub Pages URL: [Add solution URL here]([https://your-solution-url.com](https://elaf-gardi.github.io/huddle-challenge/))
+- GitHub Pages URL: [(https://elaf-gardi.github.io/huddle-challenge/)]
 
 ### Built with
 
